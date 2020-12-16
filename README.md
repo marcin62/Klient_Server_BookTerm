@@ -9,12 +9,12 @@ First user
 ![img](/photo1.png)
 ![img](/photo2.png)
 
-#Second user
+Second user
 
 ![img](/photo3.png)
 ![img](/photo4.png)
 
-#Third user
+Third user
 
 ![img](/photo5.png)
 ![img](/photo6.png)
